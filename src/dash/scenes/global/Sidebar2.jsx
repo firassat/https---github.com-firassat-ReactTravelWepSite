@@ -147,7 +147,7 @@ const Sidebar2 = () => {
               selected={selected}
               setSelected={setSelected}
             />
-            <Item
+            {/* <Item
               title="Contacts Info"
               to="/dash/contacts"
               icon={<ContactsOutlinedIcon />}
@@ -160,7 +160,7 @@ const Sidebar2 = () => {
               icon={<ReceiptOutlinedIcon />}
               selected={selected}
               setSelected={setSelected}
-            />
+            /> */}
 
             <Typography
               variant="h6"
